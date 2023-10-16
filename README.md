@@ -1,5 +1,5 @@
 
-# Simples Strategy Desing Pattern Implementation base on the GOF book Desing Patterns
+# Simples Strategy Desing Pattern Implementation base on the GOF book Design Patterns
 
 This repository contains examples of design patterns implemented in C#. Each example is contained in a separate C# file. 
 
